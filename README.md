@@ -5,3 +5,6 @@
 ## 17.01.31
 * https://maaemo.no/ 
 * 위 사이트를 기반으로 내 블로그를 만들어 본다
+
+* https://docs.google.com/spreadsheets/d/1U64eg0LnYGroW6nOHQUJzeRg6Tkr1Q8bW6HEZP0Vx0A/edit?usp=sharing
+* backlog 작성
