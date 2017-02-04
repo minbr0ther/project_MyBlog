@@ -8,3 +8,16 @@
 
 * https://docs.google.com/spreadsheets/d/1U64eg0LnYGroW6nOHQUJzeRg6Tkr1Q8bW6HEZP0Vx0A/edit?usp=sharing
 * backlog 작성
+
+
+## 17.02.01
+* 홈페이지 마크업 절반정도 완성
+
+## 17.02.02
+* 홈페이지 마크업 완성
+* :hover 글씨회색
+* mouseOnOver 그림 밝기 조절 (미완성)
+
+## 17.02.03
+* [left-push-menu](https://codepen.io/anon/pen/MJGOKL) 제작 
+* 메뉴 [toggle](http://jsfiddle.net/fyUJc/40/)버튼 구현 
